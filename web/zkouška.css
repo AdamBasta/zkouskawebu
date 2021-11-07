@@ -1,0 +1,271 @@
+
+#celek{
+        width: 1280px;
+        height: 1200px;
+        margin-left:1px;
+        background:yellow;
+        z-index:1;
+        }
+
+.img {
+    position: absolute;
+      z-index:2;
+}
+.imginstagram {
+        width: 40px;
+        height: 40px;
+        margin-left:3%;
+        margin-top:2%;
+       position: relative;
+       opacity:1;
+       z-index:5;
+       }
+.imgfacebook {
+        width: 40px;
+        height: 40px;
+        margin-left:3%;
+        margin-top:2%;
+       position: relative;
+       opacity:1;
+       z-index:5;
+       }
+.imgemail {
+        width: 45px;
+        height: 45px;
+        margin-left:2%;
+        margin-top:1%;
+       position: relative;
+       opacity:1;
+       z-index:5;
+        }
+.obdelnik {
+        width: 1200px;
+        height: 676px;
+        margin:auto;
+        background:black;
+        z-index:1;
+        }
+.oknobok {
+        width: 300px;
+        height: 676px;
+        background:rgba(31, 31, 31,.7);
+        position: absolute;
+        z-index: 3;
+        }
+    .odkazzpet{
+        width: 150px;
+        height: 50px;
+        margin-left:25%;
+        margin-top:10%;
+        background:black;
+        position:absolute;
+        border-style:solid;
+        border-color:white;
+        z-index: 4;
+    } 
+ 
+.odkazkontakt{
+        width: 150px;
+        height: 50px;
+        margin-left:25%;
+        margin-top:10%;
+        background:black;
+        position:absolute;
+        border-style:solid;
+        border-color:white;
+        z-index: 4;
+        
+        }
+        
+.odkazinformace{
+        width: 165px;
+        height: 50px;
+        margin-left:22.5%;
+        margin-top:32%;
+        background:black;
+        position:absolute;
+        border-style:solid;
+        border-color:white;
+        z-index: 4;
+        
+        }
+.odkazemail{
+        width: 200px;
+        height: 50px;
+        margin-left:9%;
+        margin-top:100%;
+        background:black;
+        position:absolute;
+        border-style:solid;
+        border-color:white;
+        z-index: 4;
+        }
+.odkazproject1{
+        width: 150px;
+        height: 50px;
+        margin-left:25%;
+        margin-top:70%;
+        background:black;
+        position:absolute;
+        border-style:solid;
+        border-color:white;
+        z-index: 4;
+        
+        }
+        
+.odkazproject2{
+        width: 150px;
+        height: 50px;
+        margin-left:25%;
+        margin-top:100%;
+        background:black;
+        position:absolute;
+        border-style:solid;
+        border-color:white;
+        z-index: 4;
+        
+        }
+        
+.odkazproject3{
+        width: 150px;
+        height: 50px;
+        margin-left:25%;
+        margin-top:130%;
+        background:black;
+        position:absolute;
+        border-style:solid;
+        border-color:white;
+        z-index: 4;
+        
+        }
+        
+.odkazproject4{
+        width: 150px;
+        height: 50px;
+        margin-left:25%;
+        margin-top:160%;
+        background:black;
+        position:absolute;
+        border-style:solid;
+        border-color:white;
+        z-index: 4;
+        
+        }
+        
+.odkazproject5{
+        width: 150px;
+        height: 50px;
+        margin-left:25%;
+        margin-top:190%;
+        background:black;
+        position:absolute;
+        border-style:solid;
+        border-color:white;
+        z-index: 4;
+        
+        }
+.odkazinstagram{
+        width: 200px;
+        height: 50px;
+        margin-left:9%;
+        margin-top:40%;
+        background:black;
+        position:absolute;
+        border-style:solid;
+        border-color:white;
+        z-index: 4;
+        }
+.odkazfacebook{
+        width: 200px;
+        height: 50px;
+        margin-left:9%;
+        margin-top:70%;
+        background:black;
+        position:absolute;
+        border-style:solid;
+        border-color:white;
+        z-index: 4;
+        }
+        
+.kurziva{
+            font-size:22px;
+            font-style: italic;
+            color: aliceblue;
+            text-align: center;
+            }
+.tucne{
+            font-size:35px;
+            font-weight: bold;
+            color: white;
+            text-align: center;
+
+
+            }
+.normal{
+            font-style: normal;
+            color: aliceblue;
+            text-align: center;
+            }
+            
+                                    
+
+#tucne{
+                margin-left:1%;
+        margin-top:2%;
+            font-family: Impact; 
+            font-size:35px;
+             color: rgb(255, 255, 255);
+            font-weight: bold;
+            text-align: center;
+            opacity:1;
+            }
+            
+#project{
+                margin-left:1%;
+        margin-top:2%;
+            font-family: Impact; 
+            font-size:35px;
+             color: rgb(255, 255, 255);
+            font-weight: bold;
+            text-align: center;
+            opacity: 1;
+            }
+#info{
+                margin-left:1%;
+        margin-top:40%;
+            font-family: Impact; 
+            font-size:30px;
+             color: rgb(255, 255, 255);
+            font-weight: bold;
+            text-align: center;
+            opacity: 10;
+            }
+#facebook{
+            margin-left:30%;
+        margin-top:-19%;
+            font-family: Impact; 
+            font-size:25px;
+             color: rgb(255, 255, 255);
+            font-weight: bold;
+        
+            opacity: 10;
+        }
+#email{
+            margin-left:33%;
+        margin-top:-25%;
+            font-family: Impact; 
+            font-size:20px;
+             color: rgb(255, 255, 255);
+            font-weight: bold;
+        
+            opacity: 10;
+        }
+#instagram{
+            margin-left:30%;
+        margin-top:-19%;
+            font-family: Impact; 
+            font-size:25px;
+             color: rgb(255, 255, 255);
+            font-weight: bold;
+        
+            opacity: 10;}
